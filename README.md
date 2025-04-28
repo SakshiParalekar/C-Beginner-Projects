@@ -54,7 +54,7 @@ A simulation of an ATM machine where the user can check the balance, withdraw, a
 - Exit the ATM
 
 #### Usage:
-- Enter your PIN to access the ATM menu.
+- The system currently allows user to perform actions without verifying their indentity via a pin.
 - Choose an option (Check balance, Withdraw, Deposit) and follow the prompts.
 
 ---
